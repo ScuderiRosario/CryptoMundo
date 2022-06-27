@@ -17,3 +17,6 @@ Every 3 minutes CryptoMundo updates the data of the top 10 cryptocurrencies, enr
   - **Apache Kafka** ---> to pass data from one party to another
   - **ELK Stack** ---> to create the dashboard
 
+### Start and TO THE MOON!
+
+Use `Docker-compose up` command  in the shell and have fun!
