@@ -11,4 +11,9 @@ Every 3 minutes CryptoMundo updates the data of the top 10 cryptocurrencies, enr
   - [Coingecko](https://pypi.org/project/pycoingecko/) ---> Extract live info about cryptocurrencies
   - [Twitter](https://pypi.org/project/snscrape/) ---> Extract tweet about top 10 cryptocurrencies
   - [Yahoo! Finance](https://pypi.org/project/yfinance/) ---> Extract historical data
+  - 
+### Tools
+  - **Apache Spark** ---> for fast machine learning
+  - **Apache Kafka** ---> to pass data from one party to another
+  - **ELK Stack** ---> to create the dashboard
 
