@@ -15,8 +15,8 @@ Every 2 minutes CryptoMundo updates the data of the top 10 cryptocurrencies, enr
 ### Tools
   - **Apache Spark** ---> for fast machine learning
   - **Apache Kafka** ---> to pass data from one party to another
-  - **ELK Stack** ---> to create the dashboard
-  - **Apache Airflow** ---> to orchestrate and monitor the whole etl process
+  - **ELK Stack** ---> to create the dashboard http://localhost:5601/
+  - **Apache Airflow** ---> to orchestrate and monitor the whole etl process http://localhost:9999/
  
  ### Dashboard
  The dashboard shows all the information of the current top 10 crypto.
