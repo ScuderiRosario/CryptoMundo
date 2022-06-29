@@ -1,4 +1,4 @@
-# CryptoMundo
+# CryptoMundo - All you need in one place
 CryptoMundo is a simple and easy tool to analyze cryptocurrency data in real time which provides a simple and informative dashboard.
 
 Every 2 minutes CryptoMundo updates the data of the top 10 cryptocurrencies, enriching them with addinional information (e.g. information about whhat people think on twitter and price forecasts). At each cycle the system creates (and **updates**) a linear regression model **constantly updated** with data from the last 360 days.
